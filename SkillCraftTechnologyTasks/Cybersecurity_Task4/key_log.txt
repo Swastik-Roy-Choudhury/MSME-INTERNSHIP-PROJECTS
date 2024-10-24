@@ -1,0 +1,11 @@
+Key.caps_lock
+h
+e
+Key.backspace
+Key.backspace
+h
+e
+l
+l
+o
+Key.esc
